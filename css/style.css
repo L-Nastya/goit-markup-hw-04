@@ -423,9 +423,8 @@ body {
   letter-spacing: 0.03em;
   color: var(--tittle-text-color);
   background: var(--second-background-color);
-  margin-bottom: 34px;
+  margin-bottom: 50px;
   border: var(--links-text-color);
-  max-height: 38px;
   padding: 6px 22px 6px 22px;
 }
 .portfolio-btn-item:not(:last-child) {
